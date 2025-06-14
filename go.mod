@@ -1,4 +1,4 @@
-module CO3093-Computer-Networks-HK241-FullStack-HK241/backend
+module CO3093-Computer-Networks-P2P-HK241/src
 
 go 1.21.4
 

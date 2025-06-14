@@ -9,7 +9,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/nguyentantai21042004/CO3093-Computer-Networks-HK241-FullStack-HK241/backend/pkg/models"
+	"CO3093-Computer-Networks-P2P-HK241/src/pkg/models"
 )
 
 func DownloadFileFromPeers(torrent *models.TorrentFile, status *models.FileStatus, outputFilename string, peerAddresses []string) error {

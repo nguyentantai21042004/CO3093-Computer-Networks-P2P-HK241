@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/nguyentantai21042004/CO3093-Computer-Networks-HK241-FullStack-HK241/backend/pkg/models"
-	"github.com/nguyentantai21042004/CO3093-Computer-Networks-HK241-FullStack-HK241/backend/pkg/utils"
+	"CO3093-Computer-Networks-P2P-HK241/src/pkg/models"
+	"CO3093-Computer-Networks-P2P-HK241/src/pkg/utils"
 )
 
 // Tạo file trạng thái với thông tin chi tiết cho từng mảnh
